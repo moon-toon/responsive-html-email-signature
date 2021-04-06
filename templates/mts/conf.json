@@ -1,0 +1,87 @@
+[
+  {
+    "id": "mts_hollerbach",
+    "signature": "Beste Grüße,",
+    "name": "Matthias Hollerbach",
+    "position": "Webentwicklung",
+    "contactPhone": "<a href='tel:056184093339'><span>(+49) 0561 84093339</span></a>",
+    "contactMail": "hollerbach@moon-toon.de",
+    "companyName": "Moon Toon Studios",
+    "logoUrl": "/assets/logo.png",
+    "logoAlt": "Moon Toon Studios",
+    "website": "https://moontoonstudios.de"
+  },
+  {
+    "id": "mts_hartmann",
+    "signature": "Beste Grüße,",
+    "name": "Timm Hartmann",
+    "position": "Geschäftsführung",
+    "contactPhone": "<a href='tel:056184093339'><span>(+49) 0561 84093339</span></a>",
+    "contactMail": "hartmann@moon-toon.de",
+    "companyName": "Moon Toon Studios",
+    "logoUrl": "/assets/logo.png",
+    "logoAlt": "Moon Toon Studios",
+    "website": "https://moontoonstudios.de"
+  },
+  {
+    "id": "mts_derksen",
+    "signature": "Beste Grüße,",
+    "name": "Thomas Derksen",
+    "position": "Webentwicklung",
+    "contactPhone": "<a href='tel:056184093339'><span>(+49) 0561 84093339</span></a>",
+    "contactMail": "derksen@moon-toon.de",
+    "companyName": "Moon Toon Studios",
+    "logoUrl": "/assets/logo.png",
+    "logoAlt": "Moon Toon Studios",
+    "website": "https://moontoonstudios.de"
+  },
+  {
+    "id": "mts_xu",
+    "signature": "Beste Grüße,",
+    "name": "Chengjie Xu",
+    "position": "Mediengestalter Digital/Web",
+    "contactPhone": "<a href='tel:056184093339'><span>(+49) 0561 84093339</span></a>",
+    "contactMail": "xu@moon-toon.de",
+    "companyName": "Moon Toon Studios",
+    "logoUrl": "/assets/logo.png",
+    "logoAlt": "Moon Toon Studios",
+    "website": "https://moontoonstudios.de"
+  },
+  {
+    "id": "mts_tschoeke",
+    "signature": "Beste Grüße,",
+    "name": "Lars Tschöke",
+    "position": "Mediengestalter Digital/Web/Print",
+    "contactPhone": "<a href='tel:056184093339'><span>(+49) 0561 84093339</span></a>",
+    "contactMail": "tschoeke@moon-toon.de",
+    "companyName": "Moon Toon Studios",
+    "logoUrl": "/assets/logo.png",
+    "logoAlt": "Moon Toon Studios",
+    "website": "https://moontoonstudios.de"
+  },
+  {
+    "id": "mts_rohpeter",
+    "signature": "Beste Grüße,",
+    "name": "Nico Rohpeter",
+    "position": "Mediengestalter Digital/Web/Print",
+    "contactPhone": "<a href='tel:056184093339'><span>(+49) 0561 84093339</span></a>",
+    "contactMail": "rohpeter@moon-toon.de",
+    "companyName": "Moon Toon Studios",
+    "logoUrl": "/assets/logo.png",
+    "logoAlt": "Moon Toon Studios",
+    "website": "https://moontoonstudios.de"
+  },
+  {
+    "id": "mts_rulff",
+    "signature": "Beste Grüße,",
+    "name": "Lara Rulff",
+    "position": "Projektmanagement",
+    "contactPhone": "<a href='tel:056184093339'><span>(+49) 0561 84093339</span></a>",
+    "contactMail": "rulff@moon-toon.de",
+    "companyName": "Moon Toon Studios",
+    "logoUrl": "/assets/logo.png",
+    "logoAlt": "Moon Toon Studios",
+    "website": "https://moontoonstudios.de"
+  }
+]
+
